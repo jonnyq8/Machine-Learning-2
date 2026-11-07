@@ -10,6 +10,7 @@ Coursework and guided labs for **CSCI 4052U – Machine Learning II** at Ontario
 | [Jonathan_Forrester_ConvNet_(worksheet).ipynb](./Jonathan_Forrester_ConvNet_(worksheet).ipynb) | Assignment 1 worksheet: build a convolutional neural network (ConvNet) for Fashion-MNIST classification. |
 | [Jonathan_Forrester_ResNetClassifier_(worksheet).ipynb](./Jonathan_Forrester_ResNetClassifier_(worksheet).ipynb) | Assignment 1 worksheet: build a ResNet-based image classifier. |
 | [Jonathan Forrester's lab3.ipynb](./Jonathan%20Forrester%27s%20lab3.ipynb) | Lab 3: run a pretrained single-shot object detector and examine its detections, localization, classification, confidence thresholds, and performance on small objects. |
+| [Jonathan_Forrester's_lab4.ipynb](./Jonathan_Forrester%27s_lab4.ipynb) | Lab 4: explore tokenization, masked language modeling, and encoder-transformer attention with BERT. |
 | [Jonathan_Forrester's_assignment2.ipynb](./Jonathan_Forrester%27s_assignment2.ipynb) | Assignment 2: fine-tune YOLOv3 on the African Wildlife dataset and evaluate the results. |
 
 ## Getting started
